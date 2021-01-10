@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dscription)](https://github.com/dscription/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dscription" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/fridgester-react/?username=dscription" />
 <!--
 **dscription/dscription** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
