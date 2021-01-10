@@ -2,6 +2,7 @@
 [![Dan's github stats](https://github-readme-stats.vercel.app/api?username=dscription)](https://github.com/dscription/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dscription)](https://github.com/dscription/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dscriptio&repo=fridgester-react)](https://github.com/fridgester-react/fridgester-react)
 <img align="center" src="https://github-readme-stats.vercel.app/api/fridgester-react/?username=dscription" />
 <!--
 **dscription/dscription** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
